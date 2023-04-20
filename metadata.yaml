@@ -1,0 +1,47 @@
+_repo: Nobody-saw-the-ship_70392
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Murphy, C. A. (Cornelius Anthony)
+    alias: Murphy, Cornelius Anthony
+    birthdate: 1898
+    deathdate: 1984
+    gutenberg_agent_id: '52499'
+    url: http://www.gutenberg.org/2009/agents/52499
+creator:
+  author:
+    agent_name: Leinster, Murray
+    aliases:
+    - Jenkins, Will
+    - Jenkins, William Fitzgerald
+    - Fitzgerald, William
+    - Jenkins, Will F.
+    birthdate: 1896
+    deathdate: 1975
+    gutenberg_agent_id: '7321'
+    url: http://www.gutenberg.org/2009/agents/7321
+    wikipedia: https://en.wikipedia.org/wiki/Murray_Leinster
+description: ''
+gutenberg_issued: '2023-03-27'
+identifiers:
+  gutenberg: '70392'
+language: en
+pgterms:marc905: 20220528120914leinster
+pgterms:marc906: '1950'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aUnited States :$bColumbia Publications, Inc., $c1950.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Human-alien encounters -- Fiction'
+- !lcsh 'Shepherds -- Fiction'
+- !lcsh 'Earth (Planet) -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Nobody saw the ship
+url: http://www.gutenberg.org/ebooks/70392
